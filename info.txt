@@ -1,0 +1,6 @@
+username=mrtamb9@gmail.com
+password=Tambk1209
+number_videos_create=5
+number_videos_into_one=2
+name_prefix=test
+index_name_from=1
